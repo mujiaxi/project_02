@@ -1,0 +1,1 @@
+git push origin master 也能进行提交，git push origin -u 的话可以提交代码，并且把origin 当作默认的主机，后续直接 git push 就可以提交到origin对应的主机
